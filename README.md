@@ -54,7 +54,8 @@ A custom PCB was designed and fabricated to facilitate experimentation and testi
 
 ## 📂 Media & Resources
 
-- 📄 **Project Report (PDF):** [View Full Thesis](report/space_modulated_acoustic_communication_system_bachelor’s_thesis.pdf)  
-- 🎥 **2×2 Data Transmission Video Demo:** [Watch Here](#)  
+- 📄 **Project Report (PDF):** [View Full Thesis](docs/project_report.pdf)  
+- 🎥 **2×2 Data Transmission Video Demo:** [Watch Here](https://youtu.be/sSKSq24N2OU)
+- 🎥 **Extra 2×2 Data Transmission Video (Clear View):** [Watch Here](https://youtu.be/JRsqQr_aQqY)   
 - 🖼️ **PCB Image (Fabricated):**  
   ![PCB Real](image/pcb_real.jpg)
